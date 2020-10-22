@@ -5,7 +5,7 @@ React Js FundMentals Course 2020
 
 ## 10/14
 1. state와 props의 차이점 state는 동적 데이터를 다룰때 사용하고 props는 동적 데이터를 다루지 못한다. 
-2. count state 다루기
+2. count state 다루기.
 ## 10/07
 prop-types로 rating 매기기
 상태 관리 함수(setstate) 이용법
